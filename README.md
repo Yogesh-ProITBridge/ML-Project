@@ -9,7 +9,7 @@ The Movie Recommendation Engine aims to provide personalized movie suggestions t
 
 Library Used:
 
-Python
-Beautiful Soup
-Machine Learning (scikit-learn, TensorFlow, or other libraries)
-Streamlit
+-  Python
+-  Beautiful Soup
+-  Machine Learning (scikit-learn, TensorFlow, or other libraries)
+-  Streamlit
