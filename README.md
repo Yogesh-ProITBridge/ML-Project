@@ -41,3 +41,4 @@ Several machine learning techniques were explored for building the recommendatio
 The user interface of the Movie Recommendation Engine is built using Streamlit. It allows users to input their movie preferences and get personalized movie suggestions.
 
 
+![Screenshot 2024-06-14 115921](https://github.com/Yogesh-ProITBridge/ML-Project/assets/151123394/181e5e56-1e6e-486d-8aef-16ae746902fe)
