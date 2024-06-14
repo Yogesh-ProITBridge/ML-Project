@@ -19,7 +19,7 @@ The Movie Recommendation Engine aims to provide personalized movie suggestions t
 
 - **Python**: Core programming language.
 - **Beautiful Soup**: Used for web scraping IMDb data.
-- **Machine Learning**: Utilized libraries such as scikit-learn and TensorFlow for building the recommendation model.
+- **Machine Learning**: Utilized libraries such as scikit-learn 
 - **Streamlit**: Used for developing the user interface.
 
 ## Data Collection and Preparation
