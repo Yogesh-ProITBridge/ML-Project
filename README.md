@@ -28,7 +28,6 @@ Data was collected from IMDb using Beautiful Soup. The following information was
 - Title
 - Genre
 - Rating
-- Cast
 
 The data was then cleaned and preprocessed to be used for training the recommendation model.
 
